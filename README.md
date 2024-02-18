@@ -1,3 +1,2 @@
-### Hi there! 👋
-
-I'm a passionate developer exploring the realms of technology and programming languages, building cool stuff one line of code at a time. 💻✨
+### Yoroshiku!
+I am a sophomore, exploring stuff that could land me a job, I'm fascinated by most tech stuff that i encounter.
