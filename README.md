@@ -1,6 +1,3 @@
-##Coding to live
+### Hi there! 👋
 
-<!---
-Aaditatgithub/Aaditatgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer exploring the realms of technology and programming languages, building cool stuff one line of code at a time. 💻✨
