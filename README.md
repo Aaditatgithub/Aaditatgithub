@@ -10,7 +10,9 @@ I'm currently learning Microservices and college stuff to ensure I pass.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaditatgithub&show_icons=true&theme=radical)
+#### Activity Graph
+
+![Your contribution graph](https://github.com/users/Aaditatgithub/contribution_graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditatgithub&layout=compact&theme=radical)
 
