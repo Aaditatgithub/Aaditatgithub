@@ -1,5 +1,5 @@
 # Yoroshiku!
 
-## I'm Aaditya. I kinda code; as of now I just wanna pass my exams. I generally like any technology that I encounter, from Windows Programming, Microsoft 365 to Web, Cloud and AIML, will see about exploring some niche stuff like CyberSec, Devops when its in my courses or maybe when its required. 
+" Aaditya here, kinda exploring the tech world with a laid-back vibe! 😎 (Since I want to ensure I pass my exams too). I'm all about diving into cool stuff like Windows Programming, Microsoft 365, Web Development, Cloud Computing, and AI/ML. Thinking about checking out Cybersecurity and DevOps down the road too."
 
 
