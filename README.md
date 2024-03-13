@@ -9,10 +9,6 @@ I'm currently learning Microservices and college stuff to ensure I pass.
 - **Tools**: Microsoft Azure, SpringBoot, Win32 API, Visual Studio, IntelliJ, VSCode 
 
 ### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditatgithub&layout=compact)
 
-#### Activity Graph
-
-![Your contribution graph](https://github.com/users/Aaditatgithub/contribution_graph)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditatgithub&layout=compact&theme=radical)
 
