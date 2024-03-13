@@ -1,6 +1,6 @@
 # Aaditya P.
 
-##Yoroshiku! 👋
+###Yoroshiku! 👋
 
 I'm Aaditya. I kinda code, currently just learning the bare minimum that comes my way.
 I'm currently learning Microservices and college stuff to ensure I pass.
