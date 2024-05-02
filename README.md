@@ -1,5 +1,5 @@
 # Yoroshiku!
 
-### " Aaditya here, kinda exploring the tech world with a laid-back vibe! 😎 (Since I wanna ensure I pass my exams too). I'm all about diving into cool stuff like Windows Programming, Microsoft 365 development, Web, Cloud Computing, and AI/ML. Thinking about checking out Cybersecurity and DevOps down the road too(will see)."
+### " Aaditya here, kinda exploring the tech world with a laid-back vibe! 😎 (Since I wanna ensure I pass my exams too)."
 
 
