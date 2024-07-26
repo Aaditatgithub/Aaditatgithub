@@ -2,10 +2,6 @@
 
 #### " Aaditya here, kinda exploring the tech world with a laid-back vibe! 😎 (Since I wanna ensure I pass my exams too)."
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aaditatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="Aaditatgithub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaditatgithub" alt="Aaditatgithub" /></a> </p>
-
 ## 📈 My GitHub stats
 
 <div class="badges-githubstats">
