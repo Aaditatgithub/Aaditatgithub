@@ -14,3 +14,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditatgithub&theme=transparent&hide_border=true" alt="Parth's Streak" height="165">
   </p>
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaditatgithub&&size_weight=0.05&count_weight=0.95&langs_count=20&show_icons=true&locale=en&layout=compact" alt="Aaditatgithub" /></p>
