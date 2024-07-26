@@ -1,6 +1,6 @@
 <h1> Yoroshiku! </h1>
 
-<h4 align="center">Aaditya here, kinda exploring the tech world with a laid-back vibe! 😎 (Since I wanna ensure I pass my exams too).</h4>
+<h4 align="left">Aaditya here, kinda exploring the tech world with a laid-back vibe! 😎 (Since I wanna ensure I pass my exams too).</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
